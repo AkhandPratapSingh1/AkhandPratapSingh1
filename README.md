@@ -1,7 +1,7 @@
-[!MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://www.linkedin.com/in/akhandpratap-singh/)
 <h1 align="center">Hi 👋, I'm Akhand Pratap Singh</h1>
 <h3 align="center">Driven by Curiosity, Fueled by Code 🚀</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9oeG51bnd5Nnd1czJ2OGE5cGNkOHQzeXY2b3l1a2p6d2t3Ym9yYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Fun GIF">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9oeG51bnd5Nnd1czJ2OGE5cGNkOHQzeXY2b3l1a2p6d2t3Ym9yYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Fun GIF"  align= "right" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhandpratapsingh1&label=Profile%20views&color=0e75b6&style=flat" alt="akhandpratapsingh1" /> </p>
