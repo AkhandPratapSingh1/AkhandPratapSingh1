@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **akhandpratap6397@gmail.com**
 
-- 📄 Know about my experiences [https://akhand-resume.tiiny.site/](https://akhand-resume.tiiny.site/)
+- 📄 Know about my experiences [https://pratap-portfolio.vercel.app](https://pratap-portfolio.vercel.app.)
 
 - ⚡ Fun fact **I code with a soundtrack – my favorite algorithm beats. 🎶💻 #CodeAndBeats**
 
