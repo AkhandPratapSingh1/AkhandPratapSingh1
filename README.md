@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhandpratapsingh1&label=Profile%20views&color=0e75b6&style=flat" alt="akhandpratapsingh1" /> </p>
 
-- 🔭 I’m currently working on [Trip101](trip101.com)
+- 🔭 I’m currently working on [INTERCERT](intercert.com)
 
-- 🌱 I’m currently learning **React Native, NodeJs**
+- 🌱 I’m currently learning **Angular,Django, NodeJs**
 
 - 💬 Ask me about **Python, Php, ReactJs, Automation and Scrapping**
 
